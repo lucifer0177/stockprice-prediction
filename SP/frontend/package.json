@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss build src/index.css -o src/styles.css",
+    "watch": "tailwindcss build src/index.css -o src/styles.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^4.0.13",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  }
+}

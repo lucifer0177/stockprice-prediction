@@ -1,0 +1,13 @@
+Flask==2.0.3
+Flask-Cors==3.0.10
+pandas==1.4.1
+numpy==1.22.3
+scikit-learn==1.0.2
+matplotlib==3.5.1
+seaborn==0.11.2
+yfinance==0.1.70
+shap==0.40.0
+lime==0.2.0.1
+requests==2.27.1
+joblib==1.1.0
+gunicorn==20.1.0
